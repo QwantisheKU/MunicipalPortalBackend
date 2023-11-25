@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6U8A+kNJD0W3Ln08brMt7QAAAAACAAAAAAADZgAAwAAAABAAAAAoRO+n5D/si8XBbAh1QYP4AAAAAASAAACgAAAAEAAAAJyOqktSsCsGp3TEXw+MsYyAAAAA5Jcmq7lI6oePMC3uUTUVRwQVUVKAkZzlw4QR7jb8R0fdkSZXXMelHjpxKIZSwwZKgYE4udmRPDLQf0dGTZiSsBbxtWqarSe89k6kTdyUu3fXDUkl1HWrebc3LkhjYOogetFjzUgIqR9xiLY/60QcQk0oJXJbMn19WwN3DXD2cJsUAAAAuZwhUqSDN/MsNq2lcclCs2b0lkM=</EncryptedPassword>
+    <History>True|2023-11-14T17:42:30.2516789Z;True|2023-11-14T20:31:30.9267454+03:00;True|2023-11-14T20:27:05.1862231+03:00;True|2023-11-14T20:01:27.4501126+03:00;True|2023-11-14T19:43:28.5770431+03:00;True|2023-11-14T19:24:15.4629069+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureDbContext">
+      <Value>Server=municipal-portal-db.postgres.database.azure.com%3bDatabase=postgres%3bPort=5432%3bUser Id=municipalportaladmin%3bPassword=7Q4X966uigMxINRK%3bSslMode=Require%3bTrust Server Certificate=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalPortalBackend", "MunicipalPortalBackend\MunicipalPortalBackend.csproj", "{89779B27-286C-4204-8B78-AAE6C70A8D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89779B27-286C-4204-8B78-AAE6C70A8D89}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{89779B27-286C-4204-8B78-AAE6C70A8D89}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{89779B27-286C-4204-8B78-AAE6C70A8D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89779B27-286C-4204-8B78-AAE6C70A8D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D19FFD-926E-43E4-BD3B-FD7A9481C6A6}
+	EndGlobalSection
+EndGlobal
